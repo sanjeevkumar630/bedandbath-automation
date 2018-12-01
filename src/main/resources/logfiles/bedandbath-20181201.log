@@ -1,0 +1,79 @@
+2018-12-01 13:21:27 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 13:21:27 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 13:38:23 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 13:38:23 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 13:38:23 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 13:41:37 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 13:41:38 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 13:41:39 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 13:41:39 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 13:45:45 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 13:48:33 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 13:48:47 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 13:48:48 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 14:19:27 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 14:19:30 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 14:19:30 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 14:19:30 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 14:19:32 IST [main] INFO  CartTest                            Click on Sheets link.
+2018-12-01 14:19:39 IST [main] INFO  CartTest                            Click on Sheet sets.
+2018-12-01 14:19:46 IST [main] INFO  CartTest                            Click on first product QuickView.
+2018-12-01 14:19:54 IST [main] INFO  CartTest                            Select sheet color as black.
+2018-12-01 14:19:58 IST [main] INFO  CartTest                            Select sheet size as queen.
+2018-12-01 14:19:59 IST [main] INFO  CartTest                            Product title is  ====> Madison Park Essentials Satin Queen Sheet Set in Black
+2018-12-01 14:19:59 IST [main] INFO  CartTest                            Click on Add to cart button.
+2018-12-01 14:20:00 IST [main] INFO  CartTest                            Click on View cart button.
+2018-12-01 14:21:26 IST [main] INFO  CartPage                            Is selected product title displayed in cart: true
+2018-12-01 14:21:48 IST [main] INFO  CartPage                            Is selected product color displayed in cart: true
+2018-12-01 14:32:15 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 14:32:15 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 14:32:15 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 14:32:15 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 14:34:12 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 14:34:14 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 14:34:15 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 14:34:15 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 14:34:17 IST [main] INFO  CartTest                            Click on Sheets link.
+2018-12-01 14:34:32 IST [main] INFO  CartTest                            Click on Sheet sets.
+2018-12-01 14:34:33 IST [main] INFO  CartTest                            Click on first product QuickView.
+2018-12-01 14:34:44 IST [main] INFO  CartTest                            Select sheet color as black.
+2018-12-01 14:34:47 IST [main] INFO  CartTest                            Select sheet size as queen.
+2018-12-01 14:34:48 IST [main] INFO  CartTest                            Product title is  ====> Madison Park Essentials Satin Queen Sheet Set in Black
+2018-12-01 14:34:48 IST [main] INFO  CartTest                            Click on Add to cart button.
+2018-12-01 14:34:52 IST [main] INFO  CartTest                            Click on View cart button.
+2018-12-01 14:37:38 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 14:37:38 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 14:37:38 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 14:37:39 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 14:37:41 IST [main] INFO  CartTest                            Click on Sheets link.
+2018-12-01 14:37:45 IST [main] INFO  CartTest                            Click on Sheet sets.
+2018-12-01 14:37:51 IST [main] INFO  CartTest                            Click on first product QuickView.
+2018-12-01 14:37:59 IST [main] INFO  CartTest                            Select sheet color as black.
+2018-12-01 14:38:02 IST [main] INFO  CartTest                            Select sheet size as queen.
+2018-12-01 14:38:03 IST [main] INFO  CartTest                            Product title is  ====> Madison Park Essentials Satin Queen Sheet Set in Black
+2018-12-01 14:38:03 IST [main] INFO  CartTest                            Click on Add to cart button.
+2018-12-01 14:38:04 IST [main] INFO  CartTest                            Click on View cart button.
+2018-12-01 14:38:16 IST [main] INFO  CartTest                            Verify Selected product title is  displayed on cart page.
+2018-12-01 14:38:20 IST [main] INFO  CartPage                            Is selected product title displayed in cart: true
+2018-12-01 14:38:20 IST [main] INFO  CartTest                            Verify Selected product color is  displayed on cart page.
+2018-12-01 14:38:20 IST [main] INFO  CartPage                            Is selected product color displayed in cart: true
+2018-12-01 14:38:20 IST [main] INFO  CartTest                            Verify actual product size is expected product size on cart page.
+2018-12-01 14:38:22 IST [main] INFO  CartPage                            Product size is: QUEEN
+2018-12-01 14:41:09 IST [main] INFO  HomePage                            Close button is displayed.
+2018-12-01 14:41:11 IST [main] INFO  HomePage                            Close button2 is displayed.
+2018-12-01 14:41:12 IST [main] INFO  CartTest                            Mouse move on Products menu.
+2018-12-01 14:41:12 IST [main] INFO  CartTest                            Click on bedding link.
+2018-12-01 14:41:15 IST [main] INFO  CartTest                            Click on Sheets link.
+2018-12-01 14:41:19 IST [main] INFO  CartTest                            Click on Sheet sets.
+2018-12-01 14:41:35 IST [main] INFO  CartTest                            Click on first product QuickView.
+2018-12-01 14:41:47 IST [main] INFO  CartTest                            Select sheet color as black.
+2018-12-01 14:41:58 IST [main] INFO  CartTest                            Select sheet size as queen.
+2018-12-01 14:41:59 IST [main] INFO  CartTest                            Product title is  ====> Madison Park Essentials Satin Queen Sheet Set in Black
+2018-12-01 14:41:59 IST [main] INFO  CartTest                            Click on Add to cart button.
+2018-12-01 14:42:02 IST [main] INFO  CartTest                            Click on View cart button.
+2018-12-01 14:42:14 IST [main] INFO  CartTest                            Verify Selected product title is  displayed on cart page.
+2018-12-01 14:42:18 IST [main] INFO  CartPage                            Is selected product title displayed in cart: true
+2018-12-01 14:42:18 IST [main] INFO  CartTest                            Verify Selected product color is  displayed on cart page.
+2018-12-01 14:42:18 IST [main] INFO  CartPage                            Is selected product color displayed in cart: true
+2018-12-01 14:42:18 IST [main] INFO  CartTest                            Verify actual product size is expected product size on cart page.
+2018-12-01 14:42:18 IST [main] INFO  CartPage                            Product size is: QUEEN
